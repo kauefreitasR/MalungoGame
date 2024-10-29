@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá, Entusiastas em Jogos e História!
 
-<!--
-**MalungoGame/MalungoGame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nós somos um grupo de Estudantes extensionistas voltados ao Desenvolvimento de Jogos Digitais com foco na abordagem do perfil Histórico-Cultural de Pernambuco, Brasil. Integrados ao Laboratório de Humanidades Digitais (***MALUNGO-LAB***), localizado no ***Instituto Federal de Pernambuco (IFPE - Campus Recife)*** participamos ativamente de eventos internos e externos à instituição, seja prestando auxílio tecnológico ou expondo nossos projetos mais recentes.
 
-Here are some ideas to get you started:
+## Tecnologias Utilizadas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em Andamento
+
+- Malungo: Ecos do Brasil
+
+## Gostou, quer saber mais e gostaria de entrar em Contato?
+
+<p>Nossas Redes Sociais:</p>
+[Instagram] (https://www.instagram.com/malungogame/)
+[Gmail] (mailto:contato.malungogames@gmail.com)
