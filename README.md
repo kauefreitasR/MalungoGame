@@ -26,6 +26,7 @@ Nós somos um grupo de Estudantes extensionistas voltados ao Desenvolvimento de 
         <a href="https://www.instagram.com/gab.calcium?igsh=OXA1ZzFrOW52eXJs">Gabriel Cássio</a> |
         <a href="https://www.instagram.com/pedro_alvescc?igsh=Z204OGpqZ3ZwbHVo">Pedro Ailton</a> |
         <a href="https://www.instagram.com/rennan_em?igsh=MzV3MHdmYWxtc3U1">Rennan Emanuel</a>
+        <a href="https://www.instagram.com/k_k4ue/">Kauê Freitas</a>
       </th>
     </tr>
   </tbody>
